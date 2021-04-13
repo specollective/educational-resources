@@ -1,1 +1,1 @@
-# Educational Resources
+# Resources
