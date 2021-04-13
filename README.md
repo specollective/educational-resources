@@ -14,6 +14,7 @@
 
 ## Agriculture & Permaculture
 - [Central Rocky Mountain Permaculture Institute](https://crmpi.org)
+- [Urban Sprouts](https://www.urbansprouts.org/)
 
 ## Agricultural Technology
 - [Farmbot](https://farm.bot)
